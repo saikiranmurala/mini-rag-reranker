@@ -1,0 +1,13 @@
+faiss-cpu
+sentence-transformers==2.2.2
+PyPDF2
+pandas
+scikit-learn
+numpy
+sqlite-utils
+fastapi
+uvicorn
+rank-bm25
+tqdm
+pycryptodome
+huggingface-hub==0.13.4

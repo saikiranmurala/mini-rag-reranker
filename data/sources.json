@@ -1,0 +1,122 @@
+[
+  {
+    "id": "doc1",
+    "title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230",
+    "pdf_filename": "Regulation_EU_2023_1230.pdf"
+  },
+  {
+    "id": "doc2",
+    "title": "Rockwell — A Guide to the Machinery Regulation (EU) 2023/1230",
+    "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf",
+    "pdf_filename": "Rockwell_Machinery_Regulation_Guide.pdf"
+  },
+  {
+    "id": "doc3",
+    "title": "OSHA 3170 — Safeguarding Equipment and Protecting Employees from Amputations",
+    "url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf",
+    "pdf_filename": "OSHA_3170_Safeguarding_Equipment.pdf"
+  },
+  {
+    "id": "doc4",
+    "title": "SICK — Guide for Safe Machinery: Six Steps to a Safe Machine",
+    "url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+    "pdf_filename": "SICK_Guide_for_Safe_Machinery.pdf"
+  },
+  {
+    "id": "doc5",
+    "title": "Introduction to Industrial Robot Safety ISO 10218 Parts 1 and 2",
+    "url": "https://www.automate.org/userAssets/a3/events/file/06%20-%20Todd%20Dickey%20-%20IRSC%202022%20(Introduction%20to%20Industrial%20Robot%20Safety%20ISO%2010218%20Parts%201%20and%202).pdf",
+    "pdf_filename": "Introduction to Industrial Robot Safety ISO 10218 Parts 1 and 2.pdf"
+  },
+  {
+    "id": "doc6",
+    "title": "Rockwell — Machinery SafeBook 5",
+    "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+    "pdf_filename": "Rockwell_Machinery_SafeBook_5.pdf"
+  },
+  {
+    "id": "doc7",
+    "title": "ABB — Safety in Control Systems according to EN ISO 13849-1",
+    "url": "https://search.abb.com/library/Download.aspx?DocumentID=2TLC172003B02002",
+    "pdf_filename": "ABB_Safety_EN_ISO_13849_1.pdf"
+  },
+  {
+    "id": "doc8",
+    "title": "IFA — SISTEMA Cookbook 1",
+    "url": "https://www.dguv.de/medien/ifa/en/pra/softwa/sistema/kochbuch/sistema_cookbook1_end.pdf",
+    "pdf_filename": "IFA_SISTEMA_Cookbook_1.pdf"
+  },
+  {
+    "id": "doc9",
+    "title": "IFA — Functional safety of machine controls (Application of EN ISO 13849), IFA Report 2/2017e",
+    "url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/reports-2019/report0217e/rep0217e.pdf",
+    "pdf_filename": "IFA_Functional_Safety_EN_ISO_13849.pdf"
+  },
+  {
+    "id": "doc10",
+    "title": "Protection for Workers",
+    "url": "https://www.osha.gov/sites/default/files/2021-07/Safety%20Committee%20Handout%201%20Machine%20Guarding.pdf",
+    "pdf_filename": "Protection for Workers.pdf"
+  },
+  {
+    "id": "doc11",
+    "title": "Robotic Industries Association",
+    "url": "https://www.ieee-ras.org/images/Standards_strategy_Meeting_19_May_2019/12-Franklin--RIA-IEEE_2019-05-19_v2.pdf",
+    "pdf_filename": "Robotic Industries Association.pdf"
+  },
+  {
+    "id": "doc12",
+    "title": "Eaton — Safety Manual (EN ISO 13849-1 and IEC 62061)",
+    "url": "https://www.eaton.com/content/dam/eaton/markets/machinebuilding/service-and-support/documents/eaton-safety-manual-pu05907001z-en-us.pdf",
+    "pdf_filename": "Eaton_Safety_Manual_EN_ISO_13849_1_IEC_62061.pdf"
+  },
+  {
+    "id": "doc13",
+    "title": "How to design safe machine",
+    "url": "https://docslib.org/doc/2135459/how-to-design-safe-machine-control-systems-a-guideline-to-en-iso-13849-1",
+    "pdf_filename": "How to design safe machine.pdf"
+  },
+  {
+    "id": "doc14",
+    "title": "A Safety Guide to Industrial Robotics Hazards",
+    "url": "https://hokuyo-usa.com/application/files/6516/8495/9036/Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf",
+    "pdf_filename": "A Safety Guide to Industrial Robotics Hazards.pdf"
+  },
+    {
+        "id": "doc15",
+        "title": "Technical guide No. 10 Functional safety",
+        "url": "https://search-ext.abb.com/library/Download.aspx?DocumentID=3AUA0000048753&DocumentPartId=1",
+        "pdf_filename": "Technical guide No. 10 Functional safety.pdf"
+    },
+    {
+        "id": "doc16",
+        "title": "Machine Safety Guide",
+        "url": "https://info.standardelectricsupply.com/hubfs/Machine%20Safety%20PDF%20Brochure.pdf?hsLang=en",
+        "pdf_filename": "Machine Safety Guide.pdf"
+    },
+    {
+        "id": "doc17",
+        "title": "safety and functional safety a general guide",
+        "url": "https://cdn.logic-control.com/docs/abb-controls/Control%20Products/Brochure/Safety%20and%20functional%20safety,%20A%20general%20guide.pdf",
+        "pdf_filename": "safety and functional safety a general guide.pdf"
+    },
+    {
+        "id": "doc18",
+        "title": "The SISTEMA Cookbook 5",
+        "url": "https://www.dguv.de/medien/ifa/en/pra/softwa/sistema/kochbuch/sistema_cookbook5_en_2_0.pdf",
+        "pdf_filename": "The SISTEMA Cookbook 5.pdf"
+    },
+    {
+        "id": "doc19",
+        "title": "Conformity with the new Machinery Regulation (EU) 2023/1230",
+        "url": "https://www.tuv.com/content-media-files/master-content/services/industrial-services/0180-tuv-rheinland-industrial-machinery/tuev-rheinland-testing-of-industrial-machinery-flyer-2-en.pdf",
+        "pdf_filename": "Conformity with the new Machinery.pdf"
+    },
+    {
+        "id": "doc20",
+        "title": "A practical guide to Machinery Safety",
+        "url": "https://www.scribd.com/document/419561674/a-practical-guide-to-machinery-safety-pdf",
+        "pdf_filename": "A practical guide to Machinery Safety.pdf"
+    }
+]
